@@ -5,7 +5,7 @@
 **Frontend Developer · Full-Stack · Open to relocation**
 
 [![Email](https://img.shields.io/badge/yarsitdikov@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarsitdikov@gmail.com)
-[![Telegram](https://img.shields.io/badge/@your__telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
+[![Telegram](https://img.shields.io/badge/@your__telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crascot)
 [![Location](https://img.shields.io/badge/Bishkek%2C_Kyrgyzstan-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>

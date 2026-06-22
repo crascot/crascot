@@ -5,7 +5,7 @@
 **Frontend Developer · Full-Stack · Open to relocation**
 
 [![Email](https://img.shields.io/badge/yarsitdikov@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarsitdikov@gmail.com)
-[![Telegram](https://img.shields.io/badge/@your__telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crascot)
+[![Telegram](https://img.shields.io/badge/@your__telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
 [![Location](https://img.shields.io/badge/Bishkek%2C_Kyrgyzstan-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -68,10 +68,10 @@ I'm a developer who genuinely enjoys coding. I love finding simple solutions to 
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=crascot&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
 &nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crascot&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=crascot&theme=dark&hide_border=true)
 
 </div>

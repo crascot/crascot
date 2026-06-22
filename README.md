@@ -5,7 +5,7 @@
 **Frontend Developer · Full-Stack · Open to relocation**
 
 [![Email](https://img.shields.io/badge/yarsitdikov@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarsitdikov@gmail.com)
-[![Telegram](https://img.shields.io/badge/@your__telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
+[![Telegram](https://img.shields.io/badge/@crascot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crascot)
 [![Location](https://img.shields.io/badge/Bishkek%2C_Kyrgyzstan-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -52,15 +52,15 @@ I'm a developer who genuinely enjoys coding. I love finding simple solutions to 
 
 ## Key Achievements
 
-| | |
-|:---|:---|
-| 📈 **~20% load reduction** | Optimized high-traffic pages, cut frontend load significantly |
-| ⚡ **Core Web Vitals** | Hands-on LCP, CLS, INP optimization in a live production product |
-| 🏗 **Production ownership** | Led frontend of a real estate platform for the U.S. market |
-| 🧪 **Testing culture** | Built A/B tests, unit tests, and e2e test suites from scratch |
-| 🔄 **SSR/SEO** | Implemented SSR and SSG with Next.js for SEO-critical pages |
-| 🐳 **DevOps basics** | Configured Docker builds and multi-container environments |
-| 🔌 **Full-stack delivery** | REST API integration and backend services in Go, NestJS, Express |
+|                             |                                                                  |
+| :-------------------------- | :--------------------------------------------------------------- |
+| 📈 **~20% load reduction**  | Optimized high-traffic pages, cut frontend load significantly    |
+| ⚡ **Core Web Vitals**      | Hands-on LCP, CLS, INP optimization in a live production product |
+| 🏗 **Production ownership** | Led frontend of a real estate platform for the U.S. market       |
+| 🧪 **Testing culture**      | Built A/B tests, unit tests, and e2e test suites from scratch    |
+| 🔄 **SSR/SEO**              | Implemented SSR and SSG with Next.js for SEO-critical pages      |
+| 🐳 **DevOps basics**        | Configured Docker builds and multi-container environments        |
+| 🔌 **Full-stack delivery**  | REST API integration and backend services in Go, NestJS, Express |
 
 ---
 

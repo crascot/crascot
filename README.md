@@ -2,7 +2,7 @@
 
 # Yaroslav Sitdikov
 
-**Frontend Developer · Full-Stack · Open to relocation**
+**Frontend Developer · React / Next.js / TypeScript · Full-Stack Experience · Open to Relocation**
 
 [![Email](https://img.shields.io/badge/yarsitdikov@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarsitdikov@gmail.com)
 [![Telegram](https://img.shields.io/badge/@crascot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crascot)

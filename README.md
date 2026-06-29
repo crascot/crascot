@@ -16,10 +16,10 @@
 
 I'm a developer who genuinely enjoys coding. I love finding simple solutions to complex problems and constantly learning new things — whether it's a new framework, architectural approach, or life skill.
 
-- Focused on **performance optimization** — Core Web Vitals (LCP, CLS, INP)
-- Lead frontend on a **production U.S. real estate platform**
-- Comfortable across the stack: React/Next.js on the front, Go/Node.js on the back
-- Strong with **Docker**, CI/CD pipelines, and production environments
+- Build scalable and maintainable web applications with a strong focus on architecture, performance, and user experience
+- Experienced in delivering production-ready features from technical planning to implementation and release
+- Strong in frontend development with React, Next.js, TypeScript, API integration, and automated testing
+- Comfortable working across the stack with Node.js, Go, PostgreSQL, Docker, and modern development workflows
 
 ---
 
